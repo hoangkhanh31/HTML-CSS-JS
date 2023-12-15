@@ -5,3 +5,5 @@
     * Có áp dụng Responsive
     * Có Modal khi nhấn vào nút Buy Ticket
     * Có Javascript cơ bản áp dụng cho đóng mở Button Buy Ticket, Mobile Menu
+2. shopee
+   * Clone from shopee.vn
